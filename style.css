@@ -1,0 +1,153 @@
+nav{
+    display: flex; 
+    height: 200px;  
+     width: 70%; 
+     margin: auto; 
+}
+    nav img{
+        height:40px; width:300px;
+    }
+nav ul{
+    display: flex; 
+    gap: 12px; 
+    list-style: none; 
+    font-size: large;
+} 
+#vep{
+    color: cadetblue; 
+}
+nav li:hover{
+color: aquamarine;
+} 
+nav{ 
+    justify-content: space-between
+} 
+#bk{
+    width: 70%;
+    margin: 0 auto; 
+    display: flex ; 
+    flex-direction: column ;
+    justify-content: center ; 
+    align-items: center; 
+} 
+#bk img{
+    width: 50px; 
+    height: 50px; 
+} 
+#para{
+    display: flex; 
+gap: 30px;
+} 
+#bk h1{
+color: rgb(51, 168, 134);
+}  
+#gg{
+    width: 70%;
+    margin: 0 auto;
+    height: 400px; 
+} 
+.cards{
+    background-color: brown; 
+    width: 300px; ; height: 340px; 
+} 
+#gg{
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;  
+
+} 
+.cards{
+    display: flex; 
+    flex-direction: column ; 
+    justify-content: space-between ;
+    padding: 15px;
+} 
+.cards img{
+width: 40px; 
+height: 40px; 
+} 
+#cd1{
+    background-color: #00b39b;; 
+} 
+#cd2{
+  background-color:   #3d83df;
+} 
+#cd3{
+background-color: #1b2734;;
+} 
+.cards{
+    border-radius: 10px; 
+} 
+.jj{
+    border: none; 
+    outline: none;
+} 
+.cards h1{
+    color: azure;
+} 
+.cards p{
+    color: azure; 
+    font-size: 20px;
+} 
+#ff{
+    width: 70%; 
+    margin: 40px auto; 
+    display: flex; 
+    justify-content: space-between;
+} 
+.aa{
+    width: 200px; 
+    height: 70px; 
+    width: 21%;
+}  
+#ff h1{
+    font-size: 30px; 
+    width: 30%;  
+    color:  #00b39b;
+
+} 
+.images{
+    width: 60%;
+ display: flex; 
+ flex-wrap: wrap ;
+ gap: 20px;
+} 
+.images svg{
+    width: 21%;
+} 
+#hg{ 
+    width: 70%; 
+    margin: 0 auto;  
+    display: flex; 
+    flex-wrap: wrap; 
+ row-gap: 15px; 
+ gap: 15px; 
+} 
+.ml{
+display: flex; 
+justify-content: space-between;  
+align-items: center;
+} 
+.ml button{
+    padding: 5px ; 
+    border: none; 
+    outline: none; 
+    background-color: #3d83df; 
+    border-radius: 20%; 
+    color: azure;
+} 
+#ll{
+    width: 70%; 
+    margin:  0 auto; 
+    display: flex; 
+
+} 
+#ll h1{
+    width: 21%;;
+}   
+#ll button{
+    width: 21%; 
+    border: none; 
+    background-color: #3d83df; 
+ color: aliceblue;
+}
